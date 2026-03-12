@@ -44,7 +44,4 @@ The glove captures hand orientation and finger flex data using embedded sensors,
 
 This project builds on experience from the [ESP32 Gesture-Controlled Robotic Arm](https://github.com/breksos/esp32-gesture-robotic-arm), which uses the same MPU6050 + flex sensor approach for hand tracking.
 
-## Team
 
-- Berk Hakan Öge
-- Utku Gökçek
